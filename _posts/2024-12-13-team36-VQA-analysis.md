@@ -180,9 +180,6 @@ For more training curves check out wandb: https://wandb.ai/music123/huggingface?
 *Fig 6: Training Curve for Our Model*
 
 
-### Performance
-
-
 
 
 ## Idefics3
