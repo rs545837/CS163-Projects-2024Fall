@@ -8,7 +8,6 @@
    - [Motivation](#motivation)
    - [Architecture](#architecture)
    - [Code](#code)
-   - [Performance](#performance)
  - [Idefics3](#idefics3)
    - [Motivation](#motivation-1)
    - [Architecture](#architecture-1)
