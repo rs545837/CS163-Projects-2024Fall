@@ -20,17 +20,16 @@
       - [Future Work](#future-work)
     - [Code](#code)
     - [Training Curves](#training-curves)
-    - [Performance](#performance)
   - [Idefics3](#idefics3)
     - [Motivation](#motivation)
     - [Architecture](#architecture-1)
     - [Code](#code-1)
-    - [Performance](#performance-1)
+    - [Performance](#performance)
   - [LLAVA](#llava)
     - [Motivation](#motivation-1)
     - [Architecture](#architecture-2)
     - [Code](#code-2)
-    - [Performance](#performance-2)
+    - [Performance](#performance-1)
   - [Evaluation Benchmarks](#evaluation-benchmarks)
     - [Benchmarks](#benchmarks)
       - [VQAv2](#vqav2)
@@ -211,9 +210,6 @@ For more training curves check out wandb: https://wandb.ai/music123/huggingface?
 {: style="border: 1px;"}
 
 *Fig 6: Training Curve for Our Model*
-
-
-### Performance
 
 
 
